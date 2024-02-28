@@ -1,1 +1,1 @@
-ECHO is on.
+there are some changed in main file
